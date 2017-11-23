@@ -9,8 +9,6 @@
 
 # ESLint
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/topjun/eslint.svg)](https://greenkeeper.io/)
-
 [Website](https://eslint.org) |
 [Configuring](https://eslint.org/docs/user-guide/configuring) |
 [Rules](https://eslint.org/docs/rules/) |
