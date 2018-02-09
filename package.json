@@ -82,7 +82,7 @@
     "chai": "^4.0.1",
     "cheerio": "^0.22.0",
     "coveralls": "^3.0.0",
-    "dateformat": "^3.0.2",
+    "dateformat": "^3.0.3",
     "ejs": "^2.5.6",
     "eslint-plugin-eslint-plugin": "^1.2.0",
     "eslint-plugin-node": "^5.1.0",
