@@ -90,7 +90,7 @@
     "eslint-release": "^0.10.1",
     "eslint-rule-composer": "^0.1.0",
     "eslump": "1.6.0",
-    "esprima": "^4.0.0",
+    "esprima": "4.0.0",
     "esprima-fb": "^15001.1001.0-dev-harmony-fb",
     "istanbul": "^0.4.5",
     "jsdoc": "^3.4.3",
