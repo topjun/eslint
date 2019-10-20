@@ -101,7 +101,7 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "leche": "^2.1.2",
     "load-perf": "^0.2.0",
-    "markdownlint": "^0.6.1",
+    "markdownlint": "^0.17.1",
     "mocha": "^4.0.1",
     "mock-fs": "^4.3.0",
     "npm-license": "^0.3.3",
