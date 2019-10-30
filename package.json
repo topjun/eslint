@@ -109,7 +109,7 @@
     "proxyquire": "^1.8.0",
     "shelljs": "^0.7.7",
     "sinon": "^4.1.2",
-    "temp": "^0.8.3",
+    "temp": "^0.9.1",
     "through": "^2.3.8"
   },
   "keywords": [
